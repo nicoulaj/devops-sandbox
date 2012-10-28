@@ -1,0 +1,5 @@
+forge "http://forge.puppetlabs.com"
+
+mod "puppetlabs/stdlib"
+mod "stahnma/epel"
+mod "KrisBuytaert/postgres", :git => "git://github.com/KrisBuytaert/puppet-postgres.git"
