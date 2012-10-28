@@ -1,0 +1,4 @@
+forge "http://forge.puppetlabs.com"
+
+mod "stahnma/epel"
+mod "danleyden/ganglia", :git => "git://github.com/danleyden/puppet-ganglia.git"
