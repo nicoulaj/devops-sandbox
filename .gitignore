@@ -1,0 +1,16 @@
+# Intellij IDEA stuff
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Eclipse/Geppetto stuff
+.settings
+.project
+.classpath
+
+# Librarian-puppet stuff
+Puppetfile.lock
+modules/
+.librarian/
+.tmp/
