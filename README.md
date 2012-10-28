@@ -4,7 +4,7 @@ DevOps sandbox
 **Ready-to-use virtual machines for safely testing various tools.**
 
 
-Prequerisites
+Prerequisites
 -------------
 
 To use virtual machines, you must have installed:
