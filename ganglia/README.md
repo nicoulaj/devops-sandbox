@@ -14,14 +14,14 @@ Usage
 -----
 1. Resolve Puppet modules:
 
-       librarian-puppet update
+        librarian-puppet update
 
 2. Start server:
 
-    vagrant up server
+        vagrant up server
 
 3. Start some nodes:
 
-    vagrant up node1
+        vagrant up node1
 
 4. Access Ganglia Web interface at <http://locahost:9000/ganglia>.
